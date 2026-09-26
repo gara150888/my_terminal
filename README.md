@@ -12,7 +12,7 @@ We’ve split this into two parts: a short snappy description for your repo’s 
 ---
 
 #### 2. Long README Description (For repo landing page)
-# [Your Repo Name, e.g. NeuroTerm / LuminaTerm / AITerm]
+# My Terminal
 ### The Open-Source AI Terminal with a Modern, Developer-Friendly UI
 Tired of clunky, outdated terminal interfaces and constantly switching between your terminal and separate AI coding tools (ChatGPT, Copilot, etc.) to debug, write scripts, or generate commands? Meet [Repo Name] — the AI-native, open-source terminal built to keep you in your workflow, with a beautiful, highly customizable UI that doesn’t sacrifice performance.
 
