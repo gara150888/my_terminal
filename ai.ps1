@@ -1,3 +1,5 @@
+# file path = C:\Users\user\OneDrive\Documents\WindowsPowerShell\ai.ps1
+
 param(
     [Parameter(ValueFromRemainingArguments = $true)]
     [string[]]$Question
